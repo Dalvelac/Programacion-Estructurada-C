@@ -1,3 +1,5 @@
+https://github.com/Dalvelac/Programacion-Estructurada-C/
+
 # Ejercicios de Programación Estructurada en C
 Este repositorio contiene una serie de ejercicios relacionados con estructuras y punteros en C, diseñados para profundizar en los conceptos fundamentales de la programación estructurada. A continuación, se presenta una descripción de cada ejercicio y su propósito.
 
