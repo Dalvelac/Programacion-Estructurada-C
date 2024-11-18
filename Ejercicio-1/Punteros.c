@@ -1,7 +1,6 @@
 // Enunciado: Crea un puntero a una estructura Estudiante e inicialízalo.
 
 #include <stdio.h>
-#include <string.h>
 
 struct Estudiante {
     char nombre[50];
